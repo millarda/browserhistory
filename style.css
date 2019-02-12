@@ -1,0 +1,17 @@
+body{
+  font-family: Open Sans;
+  color: DarkBlue;
+  background-color: ivory;
+}
+
+h1,h2,h3{
+  font-family: Oswald;
+}
+
+h1,h2,h3,p,section{
+  margin: 10px 50px 10px 50px;
+}
+
+img{
+  display: inline;
+}
